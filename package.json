@@ -1,0 +1,17 @@
+{
+  "name": "jest-28-bug-reporter-default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest-preset.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  },
+	"jest": {
+		"preset": "."
+	}
+}
